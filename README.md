@@ -40,15 +40,14 @@ The project is inspired by **autonomous driving systems**, where lane detection 
 ---
 
 ## 📂 Project Structure
-
+```bash
 Lane-Detection/
 │
 ├── test2.mp4 # Input road video
 ├── output.mp4 # Output video with lane detection
 ├── lane_detection.ipynb
 └── README.md
-
----
+```
 
 ---
 
